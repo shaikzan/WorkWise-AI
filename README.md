@@ -4,7 +4,7 @@
 
 WorkWise AI is a comprehensive employee performance management platform built with Flask. It provides managers with powerful tools to track team performance, assign goals, and gain AI-driven insights, while employees can monitor their personal progress and receive feedback.
 
-## ✨ Features
+##  Features
 
 ### For Managers
 - 📊 **Team Dashboard** - Overview of all team members' performance
